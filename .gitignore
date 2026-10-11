@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+assets/
+datasets/
+embeddings/
+images/
+Include/
+index/
+Lib/
+models/
+Scripts/
+share/
+yolo/
+*.npy
+*.cfg
